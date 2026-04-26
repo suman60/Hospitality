@@ -1,0 +1,7 @@
+hospitality.db/
+
+hospitality_venv/
+
+__pycache__/
+
+*.pyc
